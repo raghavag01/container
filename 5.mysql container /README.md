@@ -35,7 +35,7 @@ CREATE TABLE students (
 );
 
 INSERT INTO students (FirstName, Surname)
-VALUES ('Raghav', 'Agarwal'), ('Aryan', 'Soni');
+VALUES ('Raghav', 'Agarwal'), ('Maanav', 'Singh');
 ```
 
 ## 🐳 Dockerfile for MySQL Container
