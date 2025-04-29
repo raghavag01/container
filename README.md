@@ -42,23 +42,26 @@ Before running Docker commands, ensure Docker is installed:
 
 ---
 
-### 3. **Streamlit + Docker - Machine Learning Classification App**
+### 3. **Docker-Volume-Persistence**
+📌 * Ensuring data persistence in containers.
+     Named volumes, bind mounts, and stateful containerization..*
+
+---
+
+### 4. **DOcker mushroom**
 📌 *A binary ML classification app built with Streamlit and containerized using Docker.*
 
 ---
 
-### 4. **MySQL + Docker - Database Containerization**
-📌 *A fully containerized MySQL setup for easy deployment and management.*
+### 5. **MySql-Containerized**
+📌 * Running MySQL inside Docker for database management.
+     Setting up MySQL, persistent storage, and database interactions*
 
 ---
 
-### 5. **Streamlit + PostgreSQL + Docker - Interactive Data App**
-📌 *A web app using Streamlit for frontend and PostgreSQL as the database, fully containerized.*
-
----
-
-### 6. **Python Logging Application with Docker**
-📌 *Demonstrates a Python-based logging system containerized using Docker.*
+### 6. **Docker PostgreSQL **
+📌 *Connecting a Streamlit app to PostgreSQL inside a Docker container.
+     Database-backed web applications in Docker..*
 
 ---
 
@@ -67,8 +70,9 @@ Before running Docker commands, ensure Docker is installed:
 
 ---
 
-### 8. **Mastering Docker Bridge Networking**
-📌 *Deep dive into Docker bridge networking: isolation, connectivity, and config.*
+### 8. **Docker Networking**
+📌 *Demonstrates inter-container communication.
+    Bridge networks, container linking, and DNS resolution in Docker.*
 
 ---
 
@@ -89,16 +93,6 @@ Before running Docker commands, ensure Docker is installed:
 
 ### 12. **Microservices Orchestration Using Docker Swarm**
 📌 *Learn service discovery, load balancing, and rolling updates using Docker Swarm.*
-
----
-
-### 13. **Mastering Docker Bake - Multi-Platform Image Building**
-📌 *Simplify multi-platform Docker builds using Docker Bake, with tips and best practices.*
-
----
-
-### 14. **Bakery Foundation Example on Windows**
-📌 *A simple project showcasing the use of Bakery Foundation on Windows.*
 
 ---
 
